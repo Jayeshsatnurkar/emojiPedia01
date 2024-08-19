@@ -1,9 +1,8 @@
 
 import React, { useState } from 'react'
 
-import "../node_modules/bootstrap/dist/css/bootstrap.css"
-import "../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
-
+import  '../node_modules/bootstrap/dist/css/bootstrap.css'
+import '../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js'
 
 // importing components
 import Header from './components/includes/Header.jsx'

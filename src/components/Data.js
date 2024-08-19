@@ -22,8 +22,9 @@ let emojies = [
         id:4,
         icon: "✌️",
         name: "Victory",
-        discription: "some discription data Victory !"
+        discription: "some discription data Victory !" 
     }
+    
 ]
 
 export { emojies }
